@@ -1,5 +1,5 @@
 
-# World-Bank-Global-Education-Analysis
+# World Bank Global Education Analysis
 The World Bank EdStats All Indicator Query holds over 4,000 internationally comparable indicators that describe education access, progression, completion, literacy, teachers, population, and expenditures.
 In this project, I am going to analyze the World Bank EdStats Data in order to find out valuable insights.
 
